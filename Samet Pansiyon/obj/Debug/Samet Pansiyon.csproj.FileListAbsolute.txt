@@ -1,0 +1,11 @@
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\bin\Debug\Samet Pansiyon.exe.config
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\bin\Debug\Samet Pansiyon.exe
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\bin\Debug\Samet Pansiyon.pdb
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet Pansiyon.csprojAssemblyReference.cache
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.Form1.resources
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.Properties.Resources.resources
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet Pansiyon.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet Pansiyon.exe
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet Pansiyon.pdb
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.YeniMusteri.resources

@@ -1,0 +1,18 @@
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\bin\Debug\Samet Pansiyon.exe.config
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\bin\Debug\Samet Pansiyon.exe
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\bin\Debug\Samet Pansiyon.pdb
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.Properties.Resources.resources
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.YeniMusteri.resources
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Pansiyon.csproj.GenerateResource.cache
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Pansiyon.csproj.CoreCompileInputs.cache
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet Pansiyon.exe
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet Pansiyon.pdb
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.Panel.resources
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Pansiyon.csprojAssemblyReference.cache
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.GirisPaneli.resources
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.OdalarPanel.resources
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.MusteriList.resources
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\bin\Debug\tr-TR\Samet Pansiyon.resources.dll
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.Panel.tr-TR.resources
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\tr-TR\Samet Pansiyon.resources.dll
+C:\Users\samet\source\repos\Samet Pansiyon\Samet Pansiyon\obj\Debug\Samet_Pansiyon.MusteriSil.resources
